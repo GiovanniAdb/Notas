@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">MisNotas</string>
+    <string name="search">Buscar titulo</string>
+    <string name="String">+</string>
+    <string name="editar">Editar</string>
+    <string name="todo">TODO</string>
+    <string name="registro">Registro</string>
+    <string name="back">Back</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="titulo">Titulo</string>
+    <string name="Agregar">+</string>
+    <string name="agregar_tarea">Agregar Tarea</string>
+    <string name="agregar_nota">Agregar nota</string>
+    <string name="registro_de_nota">Registro de Nota</string>
+    <string name="titulo2">Titulo</string>
+    <string name="descripcionNota">Descripcion</string>
+    <string name="adjuntar_archivos">Adjuntar Archivos</string>
+    <string name="agregar_recordatoriosNota">Agregar Recordatorios</string>
+    <string name="realizar_grabacionNota">Realizar Grabacion</string>
 </resources>
